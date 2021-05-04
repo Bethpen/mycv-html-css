@@ -27,19 +27,14 @@ header {
   padding: 0 1rem;
   color: white;
   font-size: small;
-}
-
-.contact-box {
   display: flex;
-  border-bottom: dotted rgb(204, 203, 203) 1px;
+  justify-content: center;
 }
 
-.contact-icon {
-  width: 0.8rem;
-  filter: grayscale(100%) invert(100%);
-  margin-right: 5px;
+/* .fa {
+  
 }
-
+ */
 .section {
   padding: 0 7%;
 }
