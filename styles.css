@@ -31,10 +31,14 @@ header {
   justify-content: center;
 }
 
-/* .fa {
-  
+.contact-item {
+  margin-right: 10px;
 }
- */
+
+.fa {
+  margin-right: 5px;
+}
+
 .section {
   padding: 0 7%;
 }
