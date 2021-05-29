@@ -34,11 +34,6 @@ header {
   border-bottom: dotted rgb(204, 203, 203) 1px;
 }
 
-.fa {
-  /* width: 0.8rem; */
-  margin-right: 5px;
-}
-
 .section {
   padding: 0 7%;
 }
