@@ -30,8 +30,13 @@ header {
 }
 
 .contact-box {
-  display: flex;
+  display: flex; 
+  align-items: center;
   border-bottom: dotted rgb(204, 203, 203) 1px;
+}
+
+.fa {
+  margin-right: 5px;
 }
 
 .section {
